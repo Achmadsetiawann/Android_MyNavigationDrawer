@@ -23,6 +23,12 @@ import android.view.Menu;
 
 public class MainActivity extends AppCompatActivity {
 
+
+    /*
+    Structure :
+    activity_main.xml => app_bar.xml => content_main.xml
+    MainActivity.java =>
+    */
     private AppBarConfiguration mAppBarConfiguration;
 
     @Override

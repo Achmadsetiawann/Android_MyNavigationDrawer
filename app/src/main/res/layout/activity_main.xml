@@ -17,6 +17,11 @@
         app:headerLayout="@layout/nav_header_main"
         app:menu="@menu/activity_main_drawer" />
 
+
+
+    /*
+    Description : Function untuk menyertakan sebuah layout xml app_bar_main.xml
+    */
     <include
         layout="@layout/app_bar_main"
         android:layout_width="match_parent"
